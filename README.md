@@ -16,5 +16,3 @@
   
 </div><br>
 
-Mais informações: 
-- Atuo como QA e atualmente estou me aprofundando em automação de testes de API e WEB com Cypress.
